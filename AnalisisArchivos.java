@@ -1,4 +1,4 @@
-package analisisarchivos;
+package analisis;
 
 import java.io.BufferedReader;
 import java.io.File;
