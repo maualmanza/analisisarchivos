@@ -1,4 +1,4 @@
-package ANALISISARCHIVOS;
+package ANALISISARCHIVOSMAU;
 
 import java.io.BufferedReader;
 import java.io.File;
